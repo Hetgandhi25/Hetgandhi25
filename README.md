@@ -1,3 +1,4 @@
+![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/02/cs-an.gif)
 <h1 align="center">Hi 👋, I'm Het Gandhi</h1>
 <h3 align="center">Passionate about coding and Problem Solving</h3>
 
