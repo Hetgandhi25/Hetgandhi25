@@ -24,7 +24,7 @@
   <a href="https://linkedin.com/in/het-gandhi-141462255" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40"/>
   </a>
-  <a href="https://github.com/Hetgandhi" target="_blank">
+  <a href="https://github.com/Hetgandhi25" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="github" height="40"/>
   </a>
   <a href="https://leetcode.com/Hetgandhi" target="_blank">
