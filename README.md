@@ -7,11 +7,11 @@
 
 🌱 **I’m currently learning:**
 
-- DSA 🏆 and Competitive Programming 💻
-- Full Stack Web Development 🌐 with **MERN stack (MongoDB, Express, React, Node.js)** using Next.js & Tailwind
+- Full Stack Web Development 🌐 with **MERN stack (MongoDB, Express, React, Node.js)**
 - WebSockets 🪐 for real-time collaboration
 - UI/UX Design 🎨 with Figma
 - Distributed Systems 🌐
+- DSA 🏆 and Competitive Programming 💻
 - Core CS: OOP 🔍, OS 🖥️, DBMS 📊, SQL 🗄️
 
 ⚡ **Fun fact:** When I’m not coding, you’ll find me capturing the world through my lens 📷, one moment at a time.
@@ -28,10 +28,10 @@
     <img src="https://skillicons.dev/icons?i=github" alt="github" height="40"/>
   </a>
   <a href="https://leetcode.com/Hetgandhi" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="40" width="40"/>
   </a>
   <a href="https://codeforces.com/profile/Hetg255" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3628695-3030173.png" alt="codeforces" height="40"/>
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" alt="codeforces" height="40" width="40"/>
   </a>
 </p>
 
