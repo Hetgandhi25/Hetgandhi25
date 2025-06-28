@@ -7,11 +7,11 @@
 
 🌱 **I’m currently learning:**
 
+- DSA 🏆 and Competitive Programming 💻
 - Full Stack Web Development 🌐 with **MERN stack (MongoDB, Express, React, Node.js)** using Next.js & Tailwind
 - WebSockets 🪐 for real-time collaboration
 - UI/UX Design 🎨 with Figma
 - Distributed Systems 🌐
-- DSA 🏆 and Competitive Programming 💻
 - Core CS: OOP 🔍, OS 🖥️, DBMS 📊, SQL 🗄️
 
 ⚡ **Fun fact:** When I’m not coding, you’ll find me capturing the world through my lens 📷, one moment at a time.
@@ -21,13 +21,16 @@
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/het-gandhi-141462255/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="het-gandhi-141462255" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://github.com/Hetgandhi" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
   <a href="https://codeforces.com/profile/Hetg255" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hetg255" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/Hetgandhi" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hetgandhi" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
 
