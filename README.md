@@ -35,6 +35,9 @@
   <a href="https://leetcode.com/Hetgandhi" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
+  <a href="https://www.geeksforgeeks.org/user/user_8n4x16c2byu/" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+  </a>
 </p>
 
 ---
