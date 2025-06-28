@@ -11,13 +11,13 @@
 🌱 **I’m currently learning:**
 
 - DSA 🏆 and Competitive Programming 💻
-- Full Stack Web Development 🌐 with **MERN stack (MongoDB, Express, React, Node.js)** using Next.js & Tailwind
+- Full Stack Web Development 🌐 with **MERN stack (MongoDB, Express, React, Node.js)**
 - WebSockets 🪐 for real-time collaboration
 - UI/UX Design 🎨 with Figma
 - Distributed Systems 🌐
 - Core CS: OOP 🔍, OS 🖥️, DBMS 📊, SQL 🗄️
 
-⚡ **Fun fact:** When I’m not coding, you’ll find me capturing the world through my lens 📷, one moment at a time.
+⚡ **Fun fact:** When I’m not coding, you’ll find me capturing the world through my lens 📷.
 
 ---
 
