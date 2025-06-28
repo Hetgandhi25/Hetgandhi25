@@ -24,8 +24,11 @@
   <a href="https://linkedin.com/in/het-gandhi-141462255" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40"/>
   </a>
-  <a href="https://github.com/yourusername" target="_blank">
+  <a href="https://github.com/Hetgandhi" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="github" height="40"/>
+  </a>
+  <a href="https://leetcode.com/Hetgandhi" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="leetcode" height="40"/>
   </a>
 </p>
 
@@ -34,15 +37,15 @@
 <h3 align="center">🛠️ Languages & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,css,js,postgres,postman,mongodb,express,react,nodejs,tailwind,figma,git,html" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,css,js,html,postgres,postman,mongodb,express,react,nodejs,tailwind,figma,git" alt="skills" />
 </p>
 
 ---
 
-🔗 **All of my projects are available on my [GitHub](https://github.com/yourusername).**
+🔗 **All of my projects are available on my [GitHub](https://github.com/Hetgandhi).**
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hetgandhi&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
