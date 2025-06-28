@@ -23,7 +23,7 @@
   <a href="https://www.linkedin.com/in/het-gandhi-141462255/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://github.com/Hetgandhi" target="_blank">
+  <a href="https://github.com/Hetgandhi25" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
   <a href="https://codeforces.com/profile/Hetg255" target="_blank">
@@ -85,7 +85,7 @@
 
 ---
 
-🔗 **All of my projects are available on my [GitHub](https://github.com/Hetgandhi).**
+🔗 **All of my projects are available on my [GitHub](https://github.com/Hetgandhi25).**
 
 ---
 
