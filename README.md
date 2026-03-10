@@ -109,5 +109,5 @@ Competitive programming has played a major role in strengthening my **algorithmi
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hetgandhi&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hetgandhi25&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
