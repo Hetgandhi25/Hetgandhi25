@@ -2,96 +2,109 @@
   <img src="https://www.careerguide.com/career/wp-content/uploads/2020/02/cs-an.gif" alt="MasterHead"/>
 </p>
 
-
 <h1 align="center">Hi 👋, I'm Het Gandhi</h1>
-<h3 align="center">Passionate about Coding 💻 and Problem Solving 🧩</h3>
+<h3 align="center">AI/ML Engineer | Backend Developer | Competitive Programmer</h3>
 
 ---
 
-🌱 **I’m currently learning:**
+### 👨‍💻 About Me
 
-- DSA 🏆 and Competitive Programming 💻
-- Full Stack Web Development 🌐 with **MERN stack (MongoDB, Express, React, Node.js)**
-- WebSockets 🪐 for real-time collaboration
-- UI/UX Design 🎨 with Figma
-- Distributed Systems 🌐
-- Core CS: OOP 🔍, OS 🖥️, DBMS 📊, SQL 🗄️
+I am a **final-year B.Tech ICT student at DAIICT** focused on **Artificial Intelligence, Machine Learning, and backend engineering**, with a strong interest in building **intelligent systems that operate reliably at scale**.
 
-⚡ **Fun fact:** When I’m not coding, you’ll find me capturing the world through my lens 📷.
+Currently, I work as an **AI-ML Intern at Ishan Technologies (Sprinklr Engagement)** where I contribute to **intelligent monitoring and automation systems**.
+
+My work involves:
+
+- Analyzing large volumes of **infrastructure monitoring events**
+- Identifying **correlations between alerts**
+- Applying **ML-driven approaches for Root Cause Analysis (RCA)**
+- Improving **incident understanding and operational reliability**
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
+### 🤖 AI & Research Interests
+
+I enjoy exploring how **AI can be integrated into real-world systems** to automate analysis and improve observability.
+
+My main interests include:
+
+- Machine Learning
+- Generative AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- AI-driven Automation
+- AI Infrastructure & System Monitoring
+- Model Context Protocol (MCP)
+
+---
+
+### 🏆 Competitive Programming
+
+Competitive programming has played a major role in strengthening my **algorithmic thinking and problem-solving ability**.
+
+- 🟡 **LeetCode Knight** — Rating **2061** *(Top 1.82%)*  
+- 🔵 **Codeforces Specialist** — Rating **1420**  
+- ⭐ **CodeChef 3★** — Rating **1617**
+
+---
+
+### 🛠️ Tech Stack
+
+#### Languages
+- Python
+- JavaScript
+- C++
+- SQL
+
+#### AI / ML
+- Machine Learning
+- Generative AI
+- LLM Applications
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+
+#### Backend Development
+- Node.js
+- Express.js
+- REST APIs
+- MongoDB
+- PostgreSQL
+
+#### Systems & Tools
+- Zabbix Monitoring
+- Root Cause Analysis (RCA)
+- Workflow Automation (n8n)
+- Git
+- Linux
+
+---
+
+### 🌐 Connect with me
+
 <p align="left">
   <a href="https://www.linkedin.com/in/het-gandhi-141462255/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
   <a href="https://github.com/Hetgandhi25" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/>
   </a>
   <a href="https://codeforces.com/profile/Hetg255" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40"/>
   </a>
   <a href="https://leetcode.com/Hetgandhi" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/user_8n4x16c2byu/" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="30" width="40"/>
   </a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages & Tools:</h3>
+### 📂 Projects
 
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-🔗 **All of my projects are available on my [GitHub](https://github.com/Hetgandhi25).**
+🔗 All of my projects are available on **[GitHub](https://github.com/Hetgandhi25)**
 
 ---
 
