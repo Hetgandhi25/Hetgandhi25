@@ -106,8 +106,4 @@ Competitive programming has played a major role in strengthening my **algorithmi
 
 🔗 All of my projects are available on **[GitHub](https://github.com/Hetgandhi25)**
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hetgandhi25&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
