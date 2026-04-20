@@ -1,7 +1,8 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Het%20Gandhi&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI/ML%20Engineer%20%7C%20Full Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=18" width="100%"/>
+# 👋 Hey, I'm Het Gandhi
+
+### `AI/ML Engineer` · `Backend Developer` · `Competitive Programmer`
 
 <!-- Typing Effect -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=AI+%2F+ML+Engineer+%26+Backend+Developer;Building+Intelligent+Systems+at+Scale;Problem+Solver+%7C+System+Thinker)](https://git.io/typing-svg)
