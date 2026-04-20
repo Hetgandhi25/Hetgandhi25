@@ -137,24 +137,6 @@ Currently contributing as an **AI-ML Intern at Ishan Technologies (Sprinklr Enga
 
 </div>
 
----
-
-## 🎯 Currently Working On
-
-```python
-current_focus = {
-    "project"    : "AI-Driven RCA Engine for Network Incidents",
-    "learning"   : ["Advanced LLM Systems", "AI Agents", "MCP", "System Design"],
-    "exploring"  : ["RAG Pipelines", "LLM Fine-tuning", "Distributed Systems"],
-    "goal"       : "Build AI that doesn't just assist — it operates autonomously"
-}
-```
-
----
-
-## ⚡ Fun Fact
-
-> I once reduced a 3-hour manual incident triage process to under **90 seconds** using an ML pipeline. The on-call engineer thought the system was broken — turns out, it was just working.
 
 ---
 
