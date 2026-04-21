@@ -5,7 +5,7 @@
 ### `AI/ML Engineer` · `Backend Developer` · `Competitive Programmer`
 
 <!-- Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=AI+%2F+ML+Engineer+%26+Backend+Developer;Building+Intelligent+Systems+at+Scale;Problem+Solver+%7C+System+Thinker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Systems+at+Scale;Problem+Solver+%7C+System+Thinker)](https://git.io/typing-svg)
 
 <br/>
 
@@ -132,11 +132,7 @@ Currently contributing as an **AI-ML Intern at Ishan Technologies (Sprinklr Enga
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetgandhi25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="40%"/>
 
-<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hetgandhi25&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B" width="95%"/>
-
-</div>
 
 
 ---
