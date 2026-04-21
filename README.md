@@ -5,9 +5,8 @@
 ### `AI/ML Engineer` · `Backend Developer` · `Competitive Programmer`
 
 <!-- Typing Effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+Intelligent+Systems+at+Scale;Problem+Solver+%7C+System+Thinker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+AI+Systems;Data-Driven+Problem+Solver;Competitive+Programmer;Continuous+Learner)](https://git.io/typing-svg)
 
-<br/>
 
 <!-- Profile views + Followers + Stars -->
 ![Profile Views](https://komarev.com/ghpvc/?username=hetgandhi25&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
