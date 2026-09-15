@@ -22,7 +22,7 @@
 
 > *"I don't just write code — I engineer systems that think."*
 
-I'm a final-year **B.Tech ICT** student at **DA-IICT, Gandhinagar**, focused on building AI-powered, production-ready systems. My work sits at the intersection of **Machine Learning, Generative AI, and Backend Engineering** — I care deeply about intelligent systems that are reliable, scalable, and impactful in the real world.
+I'm a **B.Tech ICT graduate** from **DA-IICT, Gandhinagar**, focused on building AI-powered, production-ready systems. My work sits at the intersection of **Machine Learning, Generative AI, and Backend Engineering** — I care deeply about intelligent systems that are reliable, scalable, and impactful in the real world.
 
 - 💼 &nbsp;Currently working as an **AI-ML Intern at Ishan Technologies**, building Agentic AI, RAG chatbots, and enterprise automation engines deployed on NVIDIA DGX Spark.
 - 🎓 &nbsp;Previously **Software Developer Intern at DA-IICT**, building scalable backend APIs.
