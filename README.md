@@ -55,21 +55,6 @@ I'm a **B.Tech ICT graduate** from **DA-IICT, Gandhinagar**, focused on building
 
 ---
 
-## 🚀 Projects
-
-### 📱 WhatsApp AI Property Bot
-`n8n` | `PostgreSQL` | `Meta WhatsApp API` | `Ollama (Llama 3.1)`
-- Built a property search agent with **self-hosted n8n** and **WhatsApp Cloud API** for natural-language property discovery.
-- Integrated **Ollama** for extracting location/budget, managing session state for multi-message conversations.
-- Optimized indexed SQL filtering in **PostgreSQL**, reducing search latency to **<200ms**.
-
-### 📚 DevAssist - EdTech Platform
-`Node.js` | `Express.js` | `MongoDB`
-- Developed RESTful APIs for user management, course CRUD, and enrollment workflows.
-- Implemented secure authentication with **JWT**, **OTP-based email verification**, and role-based access control.
-- Integrated **Razorpay** for payment processing and **Cloudinary** for media storage.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -121,28 +106,10 @@ I'm a **B.Tech ICT graduate** from **DA-IICT, Gandhinagar**, focused on building
 
 <br/>
 
-🌟 **Academics & Scholarships:**<br/>
-**10th Board City Topper** (99.96 percentile) • **12th ACPC Gujarat** (99.64 percentile) • **FFE Scholarship Awardee**
-
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Hetgandhi25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" width="48%"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Hetgandhi25&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="48%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hetgandhi25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="40%"/>
-
-</div>
-
----
 
 ## 🌐 Connect with Me
 
