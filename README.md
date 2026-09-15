@@ -36,7 +36,7 @@ I'm a **B.Tech ICT graduate** from **DA-IICT, Gandhinagar**, focused on building
 
 ## 💼 Experience
 
-### 🏢 AI/ML Intern — Ishan Technologies
+### 🏢 AI/ML Engineer — Ishan Technologies
 `Jan 2026 – Present`
 
 **AI-Powered Enterprise Solutions**
