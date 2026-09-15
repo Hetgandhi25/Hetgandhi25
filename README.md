@@ -40,11 +40,12 @@ I'm a **B.Tech ICT graduate** from **DA-IICT, Gandhinagar**, focused on building
 `Jan 2026 – Present`
 
 **AI-Powered Enterprise Solutions**
-- Built a production-ready **RAG-based Microsoft Teams HR Policy Chatbot** using LangChain, FAISS, Ollama/Mistral, SQLite, and Azure Bot Framework, supporting 200+ employees and 100% local LLM inference.
-- Developed an end-to-end **MBR Automation Engine** using Python, FastAPI, Pandas, and React, reducing SLA/invoice report generation from hours to <10 seconds per client.
-- Built a **Self-Reflective Agentic RAG system** using LangGraph, FastAPI, ChromaDB, and vLLM with semantic intent routing, retrieval grading, and real-time SSE streaming.
-- Built a **WhatsApp AI Property Search Bot** via n8n, PostgreSQL, Meta WhatsApp Cloud API, and Llama 3.1, reducing latency to <200ms with indexed SQL filtering.
-- Designed **n8n AI-agent workflows** for NOC Operations using PostgreSQL, Ollama, and Zabbix, handling 100-120+ operational emails daily.
+- Built a Self-Reflective Agentic RAG system using LangGraph, FastAPI, ChromaDB, and vLLM, implementing semantic intent routing, retrieval grading, automatic query rewriting, persistent chat memory, and real-time SSE streaming to improve response grounding and reduce hallucinations.
+- Developed a production ready RAG-based Microsoft Teams HR Policy Chatbot using LangChain, FAISS, Ollama/Mistral, SQLite, and Microsoft Bot Framework, deployed on NVIDIA DGX Spark GPU infrastructure and tested with 200+ employees at Ishan Technologies and 30-minute conversational sessions with 100% local LLM inference.
+- Built an end-to-end MBR (Monthly Business Review) Automation Engine using Python, FastAPI, Pandas and python-pptx, React integrating data from CRM to automate SLA calculations, invoice ageing, service inventory, and outage analysis. Developed dynamic PowerPoint generation with automated tables, charts while preserving the original PPT design and formatting. Reduced MBR generation from hours of manual work to under 10 seconds per client, enabling CSM teams to generate accurate, client-ready reports with a single click.
+- Built a WhatsApp AI Property Search Bot using self-hosted n8n, PostgreSQL, Meta WhatsApp Cloud API, and Ollama (Llama 3.1), using Ollama for natural-language query understanding and property filtering, and reducing search latency from 2–5 seconds with Google Sheets to <200 ms with indexed PostgreSQL queries.
+- Designed and deployed self-hosted n8n AI-agent workflows for NOC and Operations using PostgreSQL, Ollama, Zabbix, and automated ticketing, enabling AI-driven incident analysis, alert processing, engineer notifications, and 100–120+ AI-generated operational emails daily.
+- Developed a Python+Playwright Google Maps geocoding engine to process 50K+ address records from Excel datasets, automated latitude/longitude extraction, and crash-resume capabilities while eliminating dependency on paid geocoding APIs and targeting  API processing cost.
 
 ### 🏢 Software Developer Intern — Dhirubhai Ambani University (DA-IICT)
 `May 2025 – Jul 2025`
